@@ -1,0 +1,11 @@
+# Never commit the account token
+token.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
