@@ -2,6 +2,7 @@
   "guild_id": "872599744793419776",
   "author": { "id": "196754806868541440", "username": "ictinus", "display": "Ictinus" },
   "days": 7,
+  "refresh_hours": 6,
   "channels": {
     "north-of-new-thera": "874108288957034556",
     "scarlattan-theatre": "872606826657624116",

@@ -70,19 +70,39 @@ gh api -X POST repos/:owner/magenta-tracker/pages -f source.branch=main -f sourc
 Site lands at `https://<user>.github.io/magenta-tracker/`. To use a custom
 subdomain like `magenta.michaelguer.in`, add a `docs/CNAME` file and a DNS record.
 
-## 4. Keep it updated
+## 4. Keep it updated — hourly, incremental, hands-off
 
-`fetch.py` is idempotent — re-run it and re-push to refresh. To automate on the
-michaelguer box:
+`fetch.py` is **incremental** ("tombstoned"): the committed `docs/data.json` is
+the state. Each run reads the newest stored message id and only asks Discord for
+what's newer, plus a rolling `refresh_hours` window (config, default 6h) so
+recent edits get updated. It never re-pulls the whole history.
 
-```cron
-# every 30 min: refresh data and push
-*/30 * * * * cd /path/magenta-tracker && python fetch.py && git commit -am "refresh" && git push
+### Automated via GitHub Actions (default)
+
+`.github/workflows/track.yml` runs every hour, fetches the delta, and pushes the
+updated registry — which rebuilds the Pages site. Set it up once:
+
+```bash
+# store the token as an encrypted repo secret (NOT in any file)
+gh secret set DISCORD_TOKEN --repo MediaResAchaea/magenta-tracker < token.txt
+
+# make sure the workflow is on the remote (deploy.sh already committed it)
+git push
 ```
 
-(On Windows, the same thing via Task Scheduler.) For a hands-off pipeline, a
-GitHub Action can run `fetch.py` on a schedule with the token stored as a repo
-secret — ask and I'll wire it up.
+Then check the **Actions** tab; trigger a manual run with "Run workflow" to test.
+Note: scheduled Actions can be delayed a few minutes under load — normal.
+
+### Or run it locally / on the box
+
+`update.sh` does the same fetch-commit-push and is now incremental too:
+
+```cron
+0 * * * *  cd /path/magenta-tracker && bash update.sh   # hourly on the michaelguer box
+```
+
+On Windows, point Task Scheduler at `bash update.sh` (residential IP — the
+lowest-detection option). Ask and I'll hand you a one-shot registration script.
 
 ## Adding channels
 

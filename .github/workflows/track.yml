@@ -1,0 +1,42 @@
+name: magenta-tracker
+
+# Hourly: pull only the new messages, merge into docs/data.json, push.
+# The push to main updates the /docs source, which rebuilds GitHub Pages.
+on:
+  schedule:
+    - cron: "0 * * * *"        # top of every hour (UTC). GitHub may delay busy runs.
+  workflow_dispatch: {}          # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write                # allow the job to commit + push data.json
+
+concurrency:
+  group: magenta-tracker
+  cancel-in-progress: false      # never let two runs stomp each other's merge
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4        # brings the existing registry (docs/data.json)
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new messages (incremental)
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        run: python fetch.py
+
+      - name: Commit & push if the registry changed
+        run: |
+          git config user.name  "magenta-tracker[bot]"
+          git config user.email "magenta-tracker@users.noreply.github.com"
+          if git diff --quiet -- docs/data.json; then
+            echo "no new messages"
+          else
+            git add docs/data.json
+            git commit -m "data: hourly refresh $(date -u +%FT%TZ)"
+            git push
+          fi

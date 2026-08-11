@@ -5,8 +5,9 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-10T23:31:58.135887+00:00",
- "window_days": 7,
+ "generated_at": "2026-08-11T00:00:04.617757+00:00",
+ "refresh_hours": 6,
+ "since_id": "1536509834999107677",
  "count": 160,
  "channels": {
   "north-of-new-thera": "874108288957034556",

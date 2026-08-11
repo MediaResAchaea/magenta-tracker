@@ -6,6 +6,9 @@ token.txt
 __pycache__/
 *.pyc
 
+# Scheduled-run log
+sync.log
+
 # OS
 .DS_Store
 Thumbs.db
