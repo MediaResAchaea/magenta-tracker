@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-11T14:00:04.460522+00:00",
+ "generated_at": "2026-08-11T15:00:04.476204+00:00",
  "refresh_hours": 6,
- "since_id": "1536662410549661766",
- "count": 162,
+ "since_id": "1536743964051513374",
+ "count": 165,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2151,6 +2151,45 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1536662410549661766"
+  },
+  {
+   "id": "1536743681267339385",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-11T14:30:44.931000+00:00",
+   "edited": null,
+   "content": "Ethaerla plugging this eclipse as though she hasn't dimmed the light from the world with her mere malicious presence",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1536743681267339385"
+  },
+  {
+   "id": "1536743946888282222",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-11T14:31:48.260000+00:00",
+   "edited": null,
+   "content": "Gaelyn literally earns the enmity of the entire game once or twice a month",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1536743946888282222"
+  },
+  {
+   "id": "1536743964051513374",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-11T14:31:52.352000+00:00",
+   "edited": null,
+   "content": "you have no power against him",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1536743964051513374"
   }
  ]
 }
