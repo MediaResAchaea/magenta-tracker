@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-13T22:00:03.486711+00:00",
+ "generated_at": "2026-08-13T23:00:04.046157+00:00",
  "refresh_hours": 6,
- "since_id": "1536743964051513374",
- "count": 165,
+ "since_id": "1537590507968925776",
+ "count": 167,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2190,6 +2190,32 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1536743964051513374"
+  },
+  {
+   "id": "1537590446212255775",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-13T22:35:29.426000+00:00",
+   "edited": null,
+   "content": "shaman",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537590446212255775"
+  },
+  {
+   "id": "1537590507968925776",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-13T22:35:44.150000+00:00",
+   "edited": null,
+   "content": "but hpala looking very good",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537590507968925776"
   }
  ]
 }
