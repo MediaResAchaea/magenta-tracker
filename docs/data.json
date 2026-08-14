@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-14T13:00:04.479204+00:00",
+ "generated_at": "2026-08-14T14:00:04.419288+00:00",
  "refresh_hours": 6,
- "since_id": "1537590507968925776",
- "count": 167,
+ "since_id": "1537809676912164944",
+ "count": 170,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2216,6 +2216,45 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537590507968925776"
+  },
+  {
+   "id": "1537809641990524938",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T13:06:29.772000+00:00",
+   "edited": null,
+   "content": "Fixed it",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537809641990524938"
+  },
+  {
+   "id": "1537809649447866460",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T13:06:31.550000+00:00",
+   "edited": null,
+   "content": "Sorry about that",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537809649447866460"
+  },
+  {
+   "id": "1537809676912164944",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T13:06:38.098000+00:00",
+   "edited": null,
+   "content": "Still haven't managed to find every last instance of why this happens",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537809676912164944"
   }
  ]
 }
