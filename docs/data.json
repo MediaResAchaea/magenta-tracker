@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-14T18:00:03.773523+00:00",
+ "generated_at": "2026-08-14T19:00:03.999843+00:00",
  "refresh_hours": 6,
- "since_id": "1537809676912164944",
- "count": 170,
+ "since_id": "1537889528378032228",
+ "count": 175,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2255,6 +2255,71 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537809676912164944"
+  },
+  {
+   "id": "1537889457531920415",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-14T18:23:39.280000+00:00",
+   "edited": null,
+   "content": "WHY AM I BEING PINGED",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889457531920415"
+  },
+  {
+   "id": "1537889485071847537",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-14T18:23:45.846000+00:00",
+   "edited": null,
+   "content": "oh it was her",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889485071847537"
+  },
+  {
+   "id": "1537889487433113802",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-14T18:23:46.409000+00:00",
+   "edited": null,
+   "content": "ofc",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889487433113802"
+  },
+  {
+   "id": "1537889505519075378",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-14T18:23:50.721000+00:00",
+   "edited": "2026-08-14T18:23:51.952000+00:00",
+   "content": "guys",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889505519075378"
+  },
+  {
+   "id": "1537889528378032228",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-14T18:23:56.171000+00:00",
+   "edited": null,
+   "content": "we had to time her out of the garden discord earlier",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889528378032228"
   }
  ]
 }
