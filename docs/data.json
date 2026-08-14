@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-14T20:00:04.006303+00:00",
+ "generated_at": "2026-08-14T21:00:05.081167+00:00",
  "refresh_hours": 6,
- "since_id": "1537889528378032228",
- "count": 175,
+ "since_id": "1537924299673833572",
+ "count": 181,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2320,6 +2320,84 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1537889528378032228"
+  },
+  {
+   "id": "1537923068914303076",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:37:12.858000+00:00",
+   "edited": null,
+   "content": "Hypothetically",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537923068914303076"
+  },
+  {
+   "id": "1537923189014011927",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:37:41.492000+00:00",
+   "edited": null,
+   "content": "If I was going to consider putting some decaying talismans into the memoryshop for threads, which ones (PVE ONLY!) should we include?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537923189014011927"
+  },
+  {
+   "id": "1537923538646728744",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:39:04.851000+00:00",
+   "edited": null,
+   "content": "talismans specifically btw, not artefacts cause that's a whole other issue",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537923538646728744"
+  },
+  {
+   "id": "1537923743932874772",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:39:53.795000+00:00",
+   "edited": null,
+   "content": "culling blade???",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537923743932874772"
+  },
+  {
+   "id": "1537924289431339048",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:42:03.852000+00:00",
+   "edited": null,
+   "content": "plausibly yeah re: mantle",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537924289431339048"
+  },
+  {
+   "id": "1537924299673833572",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T20:42:06.294000+00:00",
+   "edited": null,
+   "content": "and cape",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537924299673833572"
   }
  ]
 }
