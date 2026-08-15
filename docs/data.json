@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-14T23:00:04.120328+00:00",
+ "generated_at": "2026-08-15T00:00:04.038147+00:00",
  "refresh_hours": 6,
- "since_id": "1537939734272147547",
- "count": 190,
+ "since_id": "1537969982216867952",
+ "count": 193,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2515,6 +2515,45 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537939734272147547"
+  },
+  {
+   "id": "1537969837220036739",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T23:43:03.291000+00:00",
+   "edited": "2026-08-14T23:43:04.825000+00:00",
+   "content": "nah it's fine, it's not like it's private info",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537969837220036739"
+  },
+  {
+   "id": "1537969855255547975",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T23:43:07.591000+00:00",
+   "edited": null,
+   "content": "anyone can just search me here",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537969855255547975"
+  },
+  {
+   "id": "1537969982216867952",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-14T23:43:37.861000+00:00",
+   "edited": null,
+   "content": "typical",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1537969982216867952"
   }
  ]
 }
