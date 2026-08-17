@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-17T19:00:03.648456+00:00",
+ "generated_at": "2026-08-17T20:00:03.754310+00:00",
  "refresh_hours": 6,
- "since_id": "1538983898116001872",
- "count": 220,
+ "since_id": "1538997590618808430",
+ "count": 226,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2905,6 +2905,84 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538983898116001872"
+  },
+  {
+   "id": "1538985682205147298",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T18:59:39.609000+00:00",
+   "edited": null,
+   "content": "Yep",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538985682205147298"
+  },
+  {
+   "id": "1538986921911517276",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T19:04:35.178000+00:00",
+   "edited": null,
+   "content": "Yes",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538986921911517276"
+  },
+  {
+   "id": "1538986932061864006",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T19:04:37.598000+00:00",
+   "edited": null,
+   "content": "Just to annoy you specifically",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538986932061864006"
+  },
+  {
+   "id": "1538997406534860860",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T19:46:14.907000+00:00",
+   "edited": null,
+   "content": "you guys are at my door with pitchforks over 10 seconds of lag",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538997406534860860"
+  },
+  {
+   "id": "1538997419679686656",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T19:46:18.041000+00:00",
+   "edited": null,
+   "content": "imagine if the game was no more",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538997419679686656"
+  },
+  {
+   "id": "1538997590618808430",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T19:46:58.796000+00:00",
+   "edited": null,
+   "content": "i probably do tho i don't know what it is",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538997590618808430"
   }
  ]
 }
