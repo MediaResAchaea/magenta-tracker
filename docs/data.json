@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-17T18:00:04.545120+00:00",
+ "generated_at": "2026-08-17T19:00:03.648456+00:00",
  "refresh_hours": 6,
- "since_id": "1538762442635743313",
- "count": 213,
+ "since_id": "1538983898116001872",
+ "count": 220,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2814,6 +2814,97 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538762442635743313"
+  },
+  {
+   "id": "1538978054079123560",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-17T18:29:20.922000+00:00",
+   "edited": null,
+   "content": "I've turned down the spawn rate on nightmares again btw",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1538978054079123560"
+  },
+  {
+   "id": "1538978229149372508",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-17T18:30:02.662000+00:00",
+   "edited": null,
+   "content": "couldn't even if i was willing, sorry",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1538978229149372508"
+  },
+  {
+   "id": "1538978403221377164",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-17T18:30:44.164000+00:00",
+   "edited": null,
+   "content": "no i was just seeing them scroll by while in my other terminal",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1538978403221377164"
+  },
+  {
+   "id": "1538978423345520801",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-17T18:30:48.962000+00:00",
+   "edited": null,
+   "content": "and thought ok this is dumb",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1538978423345520801"
+  },
+  {
+   "id": "1538983499682553866",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T18:50:59.255000+00:00",
+   "edited": null,
+   "content": "<@1538981793095614595> Hello",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538983499682553866"
+  },
+  {
+   "id": "1538983816738246746",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T18:52:14.847000+00:00",
+   "edited": null,
+   "content": "Tarakin is a new coderlani",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538983816738246746"
+  },
+  {
+   "id": "1538983898116001872",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T18:52:34.249000+00:00",
+   "edited": null,
+   "content": "he likes fixing bugs, and he's spent his onboarding time being bullied by ethaerla",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538983898116001872"
   }
  ]
 }
