@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-17T04:00:03.415886+00:00",
+ "generated_at": "2026-08-17T05:00:03.437122+00:00",
  "refresh_hours": 6,
- "since_id": "1538691738925793340",
- "count": 211,
+ "since_id": "1538762442635743313",
+ "count": 213,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2788,6 +2788,32 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538691738925793340"
+  },
+  {
+   "id": "1538762430866530414",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T04:12:32.342000+00:00",
+   "edited": null,
+   "content": "wtf hayden panettiere is dead",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538762430866530414"
+  },
+  {
+   "id": "1538762442635743313",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T04:12:35.148000+00:00",
+   "edited": null,
+   "content": "save the cheerleader.....",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1538762442635743313"
   }
  ]
 }
