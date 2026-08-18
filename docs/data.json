@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-17T23:00:03.891129+00:00",
+ "generated_at": "2026-08-18T00:00:07.790854+00:00",
  "refresh_hours": 6,
- "since_id": "1539004157967597638",
- "count": 235,
+ "since_id": "1539049884760543232",
+ "count": 242,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3100,6 +3100,97 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539004157967597638"
+  },
+  {
+   "id": "1539048555233419386",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:09:29.707000+00:00",
+   "edited": null,
+   "content": "I'm pretty sure we even talked about it semi recently",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539048555233419386"
+  },
+  {
+   "id": "1539048574472560650",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:09:34.294000+00:00",
+   "edited": null,
+   "content": "I am at the mercy of coders!!!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539048574472560650"
+  },
+  {
+   "id": "1539048866567946271",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:10:43.935000+00:00",
+   "edited": null,
+   "content": "i guarantee you would crumble in this situation",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539048866567946271"
+  },
+  {
+   "id": "1539049353447079936",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:12:40.016000+00:00",
+   "edited": null,
+   "content": "yeah i levelled my  valeera to 80 today",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539049353447079936"
+  },
+  {
+   "id": "1539049389752983562",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:12:48.672000+00:00",
+   "edited": null,
+   "content": "also Edra is working on something for boon generation but he's had some stuff going on",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539049389752983562"
+  },
+  {
+   "id": "1539049840020033566",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:14:36.024000+00:00",
+   "edited": null,
+   "content": "we can just say that talismans are dumb",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539049840020033566"
+  },
+  {
+   "id": "1539049884760543232",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-17T23:14:46.691000+00:00",
+   "edited": null,
+   "content": "every time we add new ones mak says 'we should really rework this next time'",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539049884760543232"
   }
  ]
 }
