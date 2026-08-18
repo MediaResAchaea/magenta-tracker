@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-18T05:00:03.325422+00:00",
+ "generated_at": "2026-08-18T06:00:03.480215+00:00",
  "refresh_hours": 6,
- "since_id": "1539049884760543232",
- "count": 242,
+ "since_id": "1539144372002758687",
+ "count": 245,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3191,6 +3191,45 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539049884760543232"
+  },
+  {
+   "id": "1539143949942390785",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-18T05:28:33.578000+00:00",
+   "edited": null,
+   "content": "that's the plan yeah",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1539143949942390785"
+  },
+  {
+   "id": "1539144277089853490",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-18T05:29:51.576000+00:00",
+   "edited": null,
+   "content": "i've been kind of adamant about not nerfing reaper especially now and i think that a season without it (and then a nerfed version maybe in \"S3\") is probably the best foot forward",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1539144277089853490"
+  },
+  {
+   "id": "1539144372002758687",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-18T05:30:14.205000+00:00",
+   "edited": null,
+   "content": "this is also very much a learning experience for us as well so",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1539144372002758687"
   }
  ]
 }
