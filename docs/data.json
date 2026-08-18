@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-18T14:00:04.095598+00:00",
+ "generated_at": "2026-08-18T15:00:04.164605+00:00",
  "refresh_hours": 6,
- "since_id": "1539254950994124830",
- "count": 253,
+ "since_id": "1539287158299562149",
+ "count": 258,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3334,6 +3334,71 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539254950994124830"
+  },
+  {
+   "id": "1539286353689452654",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-18T14:54:25.277000+00:00",
+   "edited": null,
+   "content": "we can probably do some improvements there",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1539286353689452654"
+  },
+  {
+   "id": "1539286388435066940",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-18T14:54:33.561000+00:00",
+   "edited": null,
+   "content": "have to remember that ux is not our head coder's forte",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1539286388435066940"
+  },
+  {
+   "id": "1539287094193819749",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-18T14:57:21.827000+00:00",
+   "edited": null,
+   "content": "ya",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1539287094193819749"
+  },
+  {
+   "id": "1539287143464177779",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-18T14:57:33.574000+00:00",
+   "edited": null,
+   "content": "<@1538981793095614595> maybe has some thoughts here, or <@1233523505006383184>",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1539287143464177779"
+  },
+  {
+   "id": "1539287158299562149",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-08-18T14:57:37.111000+00:00",
+   "edited": null,
+   "content": "i'm just going to shamelessly ping them",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1539287158299562149"
   }
  ]
 }
