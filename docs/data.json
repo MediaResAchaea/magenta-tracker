@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-20T17:00:04.136918+00:00",
+ "generated_at": "2026-08-20T18:00:03.983008+00:00",
  "refresh_hours": 6,
- "since_id": "1539364642088951919",
- "count": 322,
+ "since_id": "1540053871739666453",
+ "count": 325,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4231,6 +4231,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1539364642088951919"
+  },
+  {
+   "id": "1540053016848371823",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-20T17:40:52.018000+00:00",
+   "edited": null,
+   "content": "<@225819946888724484> <@196283806066409472> unc still got it",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/874108288957034556/1540053016344793188/image.png?ex=6a888da3&is=6a873c23&hm=e9deb05c990fdc2d81a771321ea628982d625a9c8c722a9f5bdf211698c6583f&",
+     "name": "image.png",
+     "ct": "image/png"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1540053016848371823"
+  },
+  {
+   "id": "1540053051719688252",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-20T17:41:00.332000+00:00",
+   "edited": null,
+   "content": "world 3rd key",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1540053051719688252"
+  },
+  {
+   "id": "1540053871739666453",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-20T17:44:15.840000+00:00",
+   "edited": null,
+   "content": "ye also 309 but only with 2pc",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1540053871739666453"
   }
  ]
 }
