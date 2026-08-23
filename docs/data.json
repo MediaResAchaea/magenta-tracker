@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-23T00:00:03.407133+00:00",
+ "generated_at": "2026-08-23T01:00:03.595392+00:00",
  "refresh_hours": 6,
- "since_id": "1540769717512445992",
- "count": 326,
+ "since_id": "1540878989999083670",
+ "count": 330,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4289,6 +4289,58 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872606826657624116/1540769717512445992"
+  },
+  {
+   "id": "1540878694015438858",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-23T00:21:48.795000+00:00",
+   "edited": null,
+   "content": "i made them mutually exclusive like a month ago, it's possible it didn't work? I think I even mentioned it here",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1540878694015438858"
+  },
+  {
+   "id": "1540878847950590043",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-23T00:22:25.496000+00:00",
+   "edited": null,
+   "content": "https://discord.com/channels/872599744793419776/1518055855730327692/1524085820368224347",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1540878847950590043"
+  },
+  {
+   "id": "1540878892070473880",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-23T00:22:36.015000+00:00",
+   "edited": null,
+   "content": "yeah then i must have not done it correctly and presumably someone fixed the bug while i was away",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1540878892070473880"
+  },
+  {
+   "id": "1540878989999083670",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-23T00:22:59.363000+00:00",
+   "edited": null,
+   "content": "but it is intentional, my bad for no change post too",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1540878989999083670"
   }
  ]
 }
