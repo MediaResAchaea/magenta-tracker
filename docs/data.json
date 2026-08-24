@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-24T17:00:04.675117+00:00",
+ "generated_at": "2026-08-24T18:00:03.738412+00:00",
  "refresh_hours": 6,
- "since_id": "1540878989999083670",
- "count": 330,
+ "since_id": "1541496840896389201",
+ "count": 334,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4341,6 +4341,58 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1540878989999083670"
+  },
+  {
+   "id": "1541496533990637640",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-24T17:16:53.324000+00:00",
+   "edited": null,
+   "content": "why do you keep pinging me!!!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1541496533990637640"
+  },
+  {
+   "id": "1541496562562113806",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-24T17:17:00.136000+00:00",
+   "edited": null,
+   "content": "leave me alone!!!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1541496562562113806"
+  },
+  {
+   "id": "1541496794695868507",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-24T17:17:55.481000+00:00",
+   "edited": null,
+   "content": "i timed her out for 5 minutes",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1541496794695868507"
+  },
+  {
+   "id": "1541496840896389201",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-08-24T17:18:06.496000+00:00",
+   "edited": null,
+   "content": "she's probably seething",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1541496840896389201"
   }
  ]
 }
