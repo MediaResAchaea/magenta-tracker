@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-08-26T19:00:04.448489+00:00",
+ "generated_at": "2026-08-26T20:00:05.015052+00:00",
  "refresh_hours": 6,
- "since_id": "1541496840896389201",
- "count": 334,
+ "since_id": "1542254631156191282",
+ "count": 335,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4393,6 +4393,19 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1541496840896389201"
+  },
+  {
+   "id": "1542254631156191282",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-08-26T19:29:17.773000+00:00",
+   "edited": null,
+   "content": "not here today but <@1233523505006383184> is prepping some stuff for september so might have this on the list already",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1542254631156191282"
   }
  ]
 }
