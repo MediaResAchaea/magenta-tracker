@@ -7,13 +7,20 @@ $proj     = "C:\Users\malka\magenta-tracker"
 $taskName = "MagentaTracker"
 
 # locate Git Bash from the git.exe on PATH  (...\Git\cmd\git.exe -> ...\Git\bin\bash.exe)
+# (run-hidden.vbs hardcodes this same path; the check here just fails fast if Git moved)
 $gitExe = (Get-Command git -ErrorAction Stop).Source
 $bash   = Join-Path (Split-Path (Split-Path $gitExe)) "bin\bash.exe"
 if (-not (Test-Path $bash)) { throw "bash.exe not found at $bash" }
 
-# run update.sh, appending stdout/stderr to sync.log (update.sh cd's to its own dir)
-$cmd = "'/c/Users/malka/magenta-tracker/update.sh' >> '/c/Users/malka/magenta-tracker/sync.log' 2>&1"
-$action = New-ScheduledTaskAction -Execute $bash -Argument "-lc `"$cmd`"" -WorkingDirectory $proj
+# Launch through wscript.exe + run-hidden.vbs rather than bash.exe directly:
+# bash.exe is a console-subsystem program, so under an interactive logon Task
+# Scheduler pops a visible console window every hour. wscript.exe is GUI-subsystem
+# and the .vbs starts bash with SW_HIDE, so nothing is shown. The .vbs waits for
+# bash to finish, so ExecutionTimeLimit / IgnoreNew / Last Run Result still work.
+# //B = batch mode: never show a VBScript error dialog on an unattended run.
+$vbs = Join-Path $proj "run-hidden.vbs"
+if (-not (Test-Path $vbs)) { throw "run-hidden.vbs not found at $vbs" }
+$action = New-ScheduledTaskAction -Execute "wscript.exe" -Argument "//B //Nologo `"$vbs`"" -WorkingDirectory $proj
 
 # first run at the next top of the hour, then every hour
 $next = (Get-Date -Minute 0 -Second 0 -Millisecond 0).AddHours(1)
@@ -34,6 +41,6 @@ Register-ScheduledTask -TaskName $taskName -Action $action -Trigger $trigger `
 
 Write-Host "Registered '$taskName'."
 Write-Host "  first run : $next  (then every hour)"
-Write-Host "  runs      : $bash -lc `"$cmd`""
+Write-Host "  runs      : wscript.exe //B //Nologo `"$vbs`"  (-> hidden $bash -lc update.sh)"
 Write-Host "  log       : $proj\sync.log"
 Write-Host "Run it now without waiting:  Start-ScheduledTask -TaskName $taskName"
