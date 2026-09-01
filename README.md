@@ -1,15 +1,17 @@
 # Magenta Tracker
 
-An unofficial, Blizzard-blue-tracker-style feed of every post by **Ictinus** in
-the Achaea Discord, rendered as a static site you can host on GitHub Pages.
+An unofficial, Blizzard-blue-tracker-style feed of every post by the tracked
+authors (currently **Ictinus** and **Edra**) in the Achaea Discord, rendered as
+a static site you can host on GitHub Pages.
 
 `fetch.py` pulls the messages via Discord's user-token message-search API and
 writes `docs/data.json`; `docs/index.html` is a dependency-free page that renders
-that JSON with search, per-channel filters, and links back to each message.
+that JSON with search, per-author and per-channel filters, and links back to
+each message.
 
 ```
 magenta-tracker/
-├─ config.json        guild, author, channel list, window (days)
+├─ config.json        guild, authors, channel list, window (days)
 ├─ fetch.py           pulls messages -> docs/data.json
 ├─ token.txt          your Discord token (gitignored — never committed)
 ├─ docs/
@@ -103,6 +105,16 @@ Note: scheduled Actions can be delayed a few minutes under load — normal.
 
 On Windows, point Task Scheduler at `bash update.sh` (residential IP — the
 lowest-detection option). Ask and I'll hand you a one-shot registration script.
+
+## Adding people
+
+Edit `config.json` → `authors` and append `{ "id": "...", "username": "...",
+"display": "..." }`. The id is the Discord user id (Settings → Advanced →
+Developer Mode, then right-click the user → Copy User ID). The next run sees
+the registry has nothing for that person yet and backfills their last `days`
+days; after that they are incremental like everyone else. The site shows an
+author filter row and per-post author tags whenever more than one person is
+tracked.
 
 ## Adding channels
 

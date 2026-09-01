@@ -1,6 +1,9 @@
 {
   "guild_id": "872599744793419776",
-  "author": { "id": "196754806868541440", "username": "ictinus", "display": "Ictinus" },
+  "authors": [
+    { "id": "196754806868541440",  "username": "ictinus",   "display": "Ictinus" },
+    { "id": "1233523505006383184", "username": "mycorizae", "display": "Edra" }
+  ],
   "days": 7,
   "refresh_hours": 6,
   "channels": {
