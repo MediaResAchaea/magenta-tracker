@@ -5,10 +5,10 @@
   "display": "Ictinus"
  },
  "guild": "872599744793419776",
- "generated_at": "2026-09-01T00:00:04.619144+00:00",
+ "generated_at": "2026-09-01T01:00:03.952167+00:00",
  "refresh_hours": 6,
- "since_id": "1542965728477450321",
- "count": 11,
+ "since_id": "1544149241721782373",
+ "count": 14,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -164,6 +164,45 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1542965728477450321"
+  },
+  {
+   "id": "1544149149228728320",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T00:57:26.080000+00:00",
+   "edited": null,
+   "content": "Before you guys forget",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544149149228728320"
+  },
+  {
+   "id": "1544149227217756170",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T00:57:44.674000+00:00",
+   "edited": null,
+   "content": "Spam Edra with esteems cause while I've been doing a bunch of ire-wide stuff he's been toiling  away at this and spearheaded the vast majority of the update",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544149227217756170"
+  },
+  {
+   "id": "1544149241721782373",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T00:57:48.132000+00:00",
+   "edited": null,
+   "content": "he's a hero",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544149241721782373"
   }
  ]
 }
