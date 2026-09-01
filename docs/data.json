@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-01T16:00:04.752046+00:00",
+ "generated_at": "2026-09-01T17:00:04.829520+00:00",
  "refresh_hours": 6,
- "since_id": "1544164932268986410",
- "count": 62,
+ "since_id": "1544388839483777156",
+ "count": 66,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -969,6 +969,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544164932268986410"
+  },
+  {
+   "id": "1544387760381632512",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T16:45:35.412000+00:00",
+   "edited": null,
+   "content": "It was 😔",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544387760381632512"
+  },
+  {
+   "id": "1544388635812569148",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T16:49:04.131000+00:00",
+   "edited": null,
+   "content": "Cooper has barely hit the new affixes",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544388635812569148"
+  },
+  {
+   "id": "1544388707686023188",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T16:49:21.267000+00:00",
+   "edited": null,
+   "content": "There may be pain on the horizon",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544388707686023188"
+  },
+  {
+   "id": "1544388839483777156",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-01T16:49:52.690000+00:00",
+   "edited": null,
+   "content": "I added a message to one of their quirks to make it a bit more obvious",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1544388839483777156"
   }
  ]
 }
