@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-09T15:00:04.344777+00:00",
+ "generated_at": "2026-09-09T16:00:04.322719+00:00",
  "refresh_hours": 6,
- "since_id": "1547034551459647548",
- "count": 81,
+ "since_id": "1547272958119116902",
+ "count": 82,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1260,6 +1260,27 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1547034551459647548"
+  },
+  {
+   "id": "1547272958119116902",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-09T15:50:20.157000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/romeo-and-juliet-give-me-my-longsword",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Romeo And Juliet Give Me My Longsword",
+     "desc": null,
+     "url": "https://klipy.com/gifs/romeo-and-juliet-give-me-my-longsword"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1547272958119116902"
   }
  ]
 }
