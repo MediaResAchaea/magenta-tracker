@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-09T00:00:04.088593+00:00",
+ "generated_at": "2026-09-09T01:00:04.178788+00:00",
  "refresh_hours": 6,
- "since_id": "1545915925734367314",
- "count": 80,
+ "since_id": "1547034551459647548",
+ "count": 81,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1245,6 +1245,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1545915925734367314"
+  },
+  {
+   "id": "1547034551459647548",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-09T00:02:59.580000+00:00",
+   "edited": null,
+   "content": "Yes",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1547034551459647548"
   }
  ]
 }
