@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-10T17:00:04.547196+00:00",
+ "generated_at": "2026-09-10T18:00:04.577661+00:00",
  "refresh_hours": 6,
- "since_id": "1547298996773584999",
- "count": 83,
+ "since_id": "1547665196611538944",
+ "count": 84,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1296,6 +1296,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1547298996773584999"
+  },
+  {
+   "id": "1547665196611538944",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-10T17:48:57.101000+00:00",
+   "edited": null,
+   "content": "Our community garden was owned by the University and just got sold 🙁 so many innocent potatoes and tomatoes snuffed out",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1547665196611538944"
   }
  ]
 }
