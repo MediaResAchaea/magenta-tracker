@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-11T22:00:06.161738+00:00",
+ "generated_at": "2026-09-11T23:00:04.689912+00:00",
  "refresh_hours": 6,
- "since_id": "1548085809826107563",
- "count": 86,
+ "since_id": "1548095895336259685",
+ "count": 90,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1341,6 +1341,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548085809826107563"
+  },
+  {
+   "id": "1548090822057005117",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T22:00:14.115000+00:00",
+   "edited": null,
+   "content": "i'm  contractually obliged not to read posts from Laorir",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548090822057005117"
+  },
+  {
+   "id": "1548095820451283139",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T22:20:05.825000+00:00",
+   "edited": null,
+   "content": "I am relaxing my Laorir embargo to laugh at this",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548095820451283139"
+  },
+  {
+   "id": "1548095876252311616",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T22:20:19.129000+00:00",
+   "edited": null,
+   "content": "I have it set as minimum floor 5 though",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548095876252311616"
+  },
+  {
+   "id": "1548095895336259685",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T22:20:23.679000+00:00",
+   "edited": null,
+   "content": "So I am guessing <@1233523505006383184> broke something",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548095895336259685"
   }
  ]
 }
