@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-11T21:00:04.618168+00:00",
+ "generated_at": "2026-09-11T22:00:06.161738+00:00",
  "refresh_hours": 6,
- "since_id": "1547665196611538944",
- "count": 84,
+ "since_id": "1548085809826107563",
+ "count": 86,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1311,6 +1311,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1547665196611538944"
+  },
+  {
+   "id": "1548085753463177277",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T21:40:05.668000+00:00",
+   "edited": null,
+   "content": "impale is kind of a hacky mob aff",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548085753463177277"
+  },
+  {
+   "id": "1548085809826107563",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-11T21:40:19.106000+00:00",
+   "edited": null,
+   "content": "if you can dm me the offending mobs i can take a look but it might be a huge headache to fix",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548085809826107563"
   }
  ]
 }
