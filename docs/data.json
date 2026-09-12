@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-12T16:00:04.744886+00:00",
+ "generated_at": "2026-09-12T17:00:04.748564+00:00",
  "refresh_hours": 6,
- "since_id": "1548095895336259685",
- "count": 90,
+ "since_id": "1548375924771258470",
+ "count": 94,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1401,6 +1401,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1548095895336259685"
+  },
+  {
+   "id": "1548373276915408997",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-12T16:42:36.601000+00:00",
+   "edited": null,
+   "content": "I think you're getting events mixed up Rhiv because we only sent the emissary to Mhaldor. I was the one behind that event, so I am not sure what Cooper is talking about, but Slith started by giving terms, Mhaldor was given time to consider them and then Ilsefi's log happened and Mhaldor rejected them outright.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1548373276915408997"
+  },
+  {
+   "id": "1548373764218028073",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-12T16:44:32.783000+00:00",
+   "edited": null,
+   "content": "Negotiation was always on the table, and it was something I hoped for, but Mhaldor decided to stand on their teachings and outright refuse, which is the Mhaldorian path and entirely reasonable.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1548373764218028073"
+  },
+  {
+   "id": "1548374531406696479",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-12T16:47:35.695000+00:00",
+   "edited": "2026-09-12T16:47:52.517000+00:00",
+   "content": "But we reached out because several Mhaldorians had been coordinating a swap to the Death Knights in the Underworld at the time. Slith allying with anyone is an uphill battle so any terms coming from him are going to be heavily slanted to the Underworld. Whether he would have budged on any of that in negotiations, I cannot say, but Mhaldors response at the time was perfectly valid.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1548374531406696479"
+  },
+  {
+   "id": "1548375924771258470",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-12T16:53:07.899000+00:00",
+   "edited": null,
+   "content": "I was also pretty sure Mhaldor would refuse but what's the harm in presenting a branched path and potentially having Mhaldor + Bal'met v2",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1548375924771258470"
   }
  ]
 }
