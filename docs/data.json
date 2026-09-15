@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-15T19:00:04.638591+00:00",
+ "generated_at": "2026-09-15T20:00:04.251105+00:00",
  "refresh_hours": 6,
- "since_id": "1549471832795644006",
- "count": 116,
+ "since_id": "1549503045761769575",
+ "count": 120,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1791,6 +1791,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549471832795644006"
+  },
+  {
+   "id": "1549499674610901065",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-15T19:18:30.739000+00:00",
+   "edited": null,
+   "content": "tbh I like the thematic that both human racial bonuses have a chance to activate. Chaos-bloods <:babhaha:975061175417065522>",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549499674610901065"
+  },
+  {
+   "id": "1549501930382819439",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-15T19:27:28.557000+00:00",
+   "edited": null,
+   "content": "I am oddly annoyed that you track them as creation-razing when its CREATION-RENDING",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549501930382819439"
+  },
+  {
+   "id": "1549502401382187120",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-15T19:29:20.852000+00:00",
+   "edited": null,
+   "content": "I do not like this either. I blame Mak",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549502401382187120"
+  },
+  {
+   "id": "1549503045761769575",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-15T19:31:54.484000+00:00",
+   "edited": null,
+   "content": "I am not around to load new code but I will fix this later. Unacceptable",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549503045761769575"
   }
  ]
 }
