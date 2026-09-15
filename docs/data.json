@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-15T21:00:04.467190+00:00",
+ "generated_at": "2026-09-15T22:00:04.530841+00:00",
  "refresh_hours": 6,
- "since_id": "1549503045761769575",
- "count": 120,
+ "since_id": "1549540137866756107",
+ "count": 122,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -1851,6 +1851,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1549503045761769575"
+  },
+  {
+   "id": "1549539790574190755",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-09-15T21:57:55.130000+00:00",
+   "edited": null,
+   "content": "Just to confirm and eliminate an option, you definitely have a vial of prefarar in your inventory?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1549539790574190755"
+  },
+  {
+   "id": "1549540137866756107",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-09-15T21:59:17.931000+00:00",
+   "edited": null,
+   "content": "Yep and it turns out the only path for envenoming that erroneously has no error message is for not finding enough venom to envenom",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1549540137866756107"
   }
  ]
 }
