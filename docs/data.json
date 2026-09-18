@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-18T20:00:04.917323+00:00",
+ "generated_at": "2026-09-18T21:00:05.341757+00:00",
  "refresh_hours": 6,
- "since_id": "1550591408606548111",
- "count": 136,
+ "since_id": "1550602619213451307",
+ "count": 138,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2091,6 +2091,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1550591408606548111"
+  },
+  {
+   "id": "1550602585856282749",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-18T20:21:05.271000+00:00",
+   "edited": null,
+   "content": "This won't show up on combo rewards now, unless those rewards also contribute to a combo.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550602585856282749"
+  },
+  {
+   "id": "1550602619213451307",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-18T20:21:13.224000+00:00",
+   "edited": null,
+   "content": "We don't have any of those right now but who knows what the future holds",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550602619213451307"
   }
  ]
 }
