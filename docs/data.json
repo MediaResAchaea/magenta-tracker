@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-19T02:00:04.935862+00:00",
+ "generated_at": "2026-09-19T03:00:04.989677+00:00",
  "refresh_hours": 6,
- "since_id": "1550664802345558038",
- "count": 145,
+ "since_id": "1550690965323386942",
+ "count": 146,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2226,6 +2226,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550664802345558038"
+  },
+  {
+   "id": "1550690965323386942",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-19T02:12:16.578000+00:00",
+   "edited": null,
+   "content": "idk if I trust Cooper, maybe its pure antisynergy?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550690965323386942"
   }
  ]
 }
