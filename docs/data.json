@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-19T00:00:05.153775+00:00",
+ "generated_at": "2026-09-19T01:00:05.693763+00:00",
  "refresh_hours": 6,
- "since_id": "1550657073979596910",
- "count": 141,
+ "since_id": "1550664802345558038",
+ "count": 145,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2166,6 +2166,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550657073979596910"
+  },
+  {
+   "id": "1550664210323869727",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-19T00:25:57.689000+00:00",
+   "edited": null,
+   "content": "It is possible that Mnemosyne mobs will need their point totals adjusted. It likely won't change for the duration of this Great Hunt but I'll be looking at all the feedback for future ones",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550664210323869727"
+  },
+  {
+   "id": "1550664352263311531",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-19T00:26:31.530000+00:00",
+   "edited": null,
+   "content": "I think its nice for people to also be able to earn the small credit thresholds in Mnemosyne too",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550664352263311531"
+  },
+  {
+   "id": "1550664610603077685",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-19T00:27:33.123000+00:00",
+   "edited": null,
+   "content": "I lean this way too but if we do a Mnemosyne only contest in the future it might be that later ripples aren't scaling at a satisfying rate with their difficulty",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550664610603077685"
+  },
+  {
+   "id": "1550664802345558038",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-19T00:28:18.838000+00:00",
+   "edited": null,
+   "content": "there is an opportunity cost to not running out of things to hunt",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1550664802345558038"
   }
  ]
 }
