@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-22T13:00:04.713569+00:00",
+ "generated_at": "2026-09-22T14:00:04.459764+00:00",
  "refresh_hours": 6,
- "since_id": "1551756686245494919",
- "count": 191,
+ "since_id": "1551948296875016233",
+ "count": 194,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -2922,6 +2922,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1551756686245494919"
+  },
+  {
+   "id": "1551948271956525197",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-22T13:28:21.839000+00:00",
+   "edited": null,
+   "content": "48) Ethaerla told You: You seem cheerful.\n49) Ethaerla told You: Surely it's my calling to fix that at some point today.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1551948271956525197"
+  },
+  {
+   "id": "1551948284518473791",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-22T13:28:24.834000+00:00",
+   "edited": null,
+   "content": "in case there was ever any doubt",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1551948284518473791"
+  },
+  {
+   "id": "1551948296875016233",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-09-22T13:28:27.780000+00:00",
+   "edited": null,
+   "content": "as to her malice",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1551948296875016233"
   }
  ]
 }
