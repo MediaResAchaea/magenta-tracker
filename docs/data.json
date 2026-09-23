@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-23T17:00:05.599253+00:00",
+ "generated_at": "2026-09-23T18:00:04.911308+00:00",
  "refresh_hours": 6,
- "since_id": "1552337540428861607",
- "count": 198,
+ "since_id": "1552371124321656903",
+ "count": 200,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3027,6 +3027,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1552337540428861607"
+  },
+  {
+   "id": "1552370983313342607",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-23T17:28:04.080000+00:00",
+   "edited": null,
+   "content": "It's 7.5% sorry to burst your bubble",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552370983313342607"
+  },
+  {
+   "id": "1552371124321656903",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-23T17:28:37.699000+00:00",
+   "edited": null,
+   "content": "Resist all",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552371124321656903"
   }
  ]
 }
