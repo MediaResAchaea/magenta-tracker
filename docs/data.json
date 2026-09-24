@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-24T21:00:05.795556+00:00",
+ "generated_at": "2026-09-24T22:00:05.672304+00:00",
  "refresh_hours": 6,
- "since_id": "1552786542701973608",
- "count": 213,
+ "since_id": "1552795441454649345",
+ "count": 216,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3252,6 +3252,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552786542701973608"
+  },
+  {
+   "id": "1552787531106488393",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-24T21:03:16.813000+00:00",
+   "edited": null,
+   "content": "It's something completely separate to keywords. It's old too, it's not really used anywhere besides Nexus (and now some boons). However the game screams at us when it's not set so every mob remains classified.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552787531106488393"
+  },
+  {
+   "id": "1552788196704788541",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-24T21:05:55.504000+00:00",
+   "edited": null,
+   "content": "I don't have a count off hand, but there's definitely more. With only 6 classifications, it's safe to say they all have decent representation in the game. Fiend also includes basically anything undead or chaotic for sure.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552788196704788541"
+  },
+  {
+   "id": "1552795441454649345",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-24T21:34:42.787000+00:00",
+   "edited": null,
+   "content": "we  should probably change that requirement to flow state <:dragthink:877272930579546153>",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552795441454649345"
   }
  ]
 }
