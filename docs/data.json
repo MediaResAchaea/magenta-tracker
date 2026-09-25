@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-24T23:00:04.931613+00:00",
+ "generated_at": "2026-09-25T00:00:05.092132+00:00",
  "refresh_hours": 6,
- "since_id": "1552804995349352460",
- "count": 222,
+ "since_id": "1552818604188377150",
+ "count": 223,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3387,6 +3387,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552804995349352460"
+  },
+  {
+   "id": "1552818604188377150",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-09-24T23:06:45.213000+00:00",
+   "edited": null,
+   "content": "This is meant to be a pretty minor but thematic bonus. The Aurora and Deuc boons are both solid already",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1552818604188377150"
   }
  ]
 }
