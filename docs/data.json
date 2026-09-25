@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-25T04:00:05.228800+00:00",
+ "generated_at": "2026-09-25T05:00:05.413833+00:00",
  "refresh_hours": 6,
- "since_id": "1552818604188377150",
- "count": 223,
+ "since_id": "1552906426886651976",
+ "count": 226,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3402,6 +3402,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1552818604188377150"
+  },
+  {
+   "id": "1552905683635011665",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-25T04:52:46.571000+00:00",
+   "edited": null,
+   "content": "The bonus health adds together but not multiplicatively. 120% +133% = 153%",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552905683635011665"
+  },
+  {
+   "id": "1552906121814212640",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-25T04:54:31.041000+00:00",
+   "edited": null,
+   "content": "I don't think it does 🤔 are you actually moving that many rooms or is your mapper just out of whack?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552906121814212640"
+  },
+  {
+   "id": "1552906426886651976",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-25T04:55:43.776000+00:00",
+   "edited": null,
+   "content": "Msg me a log if you can and I can investigate. It might just be that fear doesn't like procedural rooms, it's a very old affliction",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1552906426886651976"
   }
  ]
 }
