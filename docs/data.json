@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-09-30T15:00:04.157663+00:00",
+ "generated_at": "2026-09-30T16:00:04.684476+00:00",
  "refresh_hours": 6,
- "since_id": "1554859898863493211",
- "count": 241,
+ "since_id": "1554878488052367452",
+ "count": 248,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -3672,6 +3672,129 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1554859898863493211"
+  },
+  {
+   "id": "1554875081748914177",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-30T15:18:27.671000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/monty-python-and-the-holy-grail-just-a-flesh-wound",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Monty Python And The Holy Grail Just A Flesh Wound",
+     "desc": null,
+     "url": "https://klipy.com/gifs/monty-python-and-the-holy-grail-just-a-flesh-wound"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1554875081748914177"
+  },
+  {
+   "id": "1554875087491178568",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-30T15:18:29.040000+00:00",
+   "edited": null,
+   "content": "mending wounds 😔 how about flesh wounds?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1554875087491178568"
+  },
+  {
+   "id": "1554876564754141267",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-30T15:24:21.247000+00:00",
+   "edited": null,
+   "content": "Something in between this...",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1554876564754141267"
+  },
+  {
+   "id": "1554876581476962394",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-30T15:24:25.234000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/hello-kermit",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Kermit the Frog Dancing",
+     "desc": null,
+     "url": "https://klipy.com/gifs/hello-kermit"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1554876581476962394"
+  },
+  {
+   "id": "1554876592738668653",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-30T15:24:27.919000+00:00",
+   "edited": null,
+   "content": "And this...",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1554876592738668653"
+  },
+  {
+   "id": "1554876613844410480",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-09-30T15:24:32.951000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/dmitry-lime222-1",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Dmitry Lime222",
+     "desc": null,
+     "url": "https://klipy.com/gifs/dmitry-lime222-1"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1554876613844410480"
+  },
+  {
+   "id": "1554878488052367452",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-09-30T15:31:59.797000+00:00",
+   "edited": null,
+   "content": "some out-of-combat utility and flavour would fit well too, maybe like a den you build?",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1554878488052367452"
   }
  ]
 }
