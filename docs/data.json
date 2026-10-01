@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-01T18:00:04.626454+00:00",
+ "generated_at": "2026-10-01T19:00:05.457779+00:00",
  "refresh_hours": 6,
- "since_id": "1555277886502477846",
- "count": 263,
+ "since_id": "1555282280048627795",
+ "count": 267,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4026,6 +4026,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1555277886502477846"
+  },
+  {
+   "id": "1555279950972457004",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-01T18:07:16.016000+00:00",
+   "edited": null,
+   "content": "Druid is in a similar-ish spot to warriors in standard bashing. They have a fair amount of tankiness and slower attacks, so their DPS and clear times tend to be behind the pack.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1555279950972457004"
+  },
+  {
+   "id": "1555280633557815348",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-01T18:09:58.757000+00:00",
+   "edited": null,
+   "content": "2H is definitely the best bashing spec, but the others are pretty average. The differences are small though, but Druid is certainly not the best offensive basher.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1555280633557815348"
+  },
+  {
+   "id": "1555280817973104755",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-01T18:10:42.725000+00:00",
+   "edited": null,
+   "content": "only if it disables your auto open door config on use",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1555280817973104755"
+  },
+  {
+   "id": "1555282280048627795",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-01T18:16:31.311000+00:00",
+   "edited": null,
+   "content": "I really wanted to add a sloth morph boon to Mnemosyne. I still do. Hard to think what effect is worth the tradeoff of increasing ***ALL*** your balances by 5~ seconds and delaying your movement.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1555282280048627795"
   }
  ]
 }
