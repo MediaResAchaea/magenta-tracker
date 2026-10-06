@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-06T17:00:04.765773+00:00",
+ "generated_at": "2026-10-06T18:00:05.452218+00:00",
  "refresh_hours": 6,
- "since_id": "1555508053137170533",
- "count": 271,
+ "since_id": "1557076770455425105",
+ "count": 275,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4146,6 +4146,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1555508053137170533"
+  },
+  {
+   "id": "1557076543153643521",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-10-06T17:06:16.971000+00:00",
+   "edited": null,
+   "content": "oh",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1557076543153643521"
+  },
+  {
+   "id": "1557076555275051019",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-10-06T17:06:19.861000+00:00",
+   "edited": null,
+   "content": "this is probably an easy fix",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1557076555275051019"
+  },
+  {
+   "id": "1557076596886601833",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-10-06T17:06:29.782000+00:00",
+   "edited": null,
+   "content": "<@1538981793095614595> <@1233523505006383184> <@1392959003340046369> can we make all forays give the muse pages pls",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1557076596886601833"
+  },
+  {
+   "id": "1557076770455425105",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-10-06T17:07:11.164000+00:00",
+   "edited": null,
+   "content": "guys i have tendonitis and i am very miserable today",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1557076770455425105"
   }
  ]
 }
