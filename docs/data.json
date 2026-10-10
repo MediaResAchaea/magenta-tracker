@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-10T18:00:04.042539+00:00",
+ "generated_at": "2026-10-10T19:00:05.677680+00:00",
  "refresh_hours": 6,
- "since_id": "1558524397969735940",
- "count": 321,
+ "since_id": "1558553877526093874",
+ "count": 326,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4896,6 +4896,87 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558524397969735940"
+  },
+  {
+   "id": "1558543756884578398",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T18:16:27.984000+00:00",
+   "edited": null,
+   "content": "<:ictihmm:1372974273412599929>",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558543756884578398"
+  },
+  {
+   "id": "1558550092791816233",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T18:41:38.582000+00:00",
+   "edited": null,
+   "content": "They actually opened a new Hot Topic in a mall where I live in June this year, which caught all sorts of headlines on social media 😄",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558550092791816233"
+  },
+  {
+   "id": "1558550126883115029",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T18:41:46.710000+00:00",
+   "edited": null,
+   "content": "(in Cadana)",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558550126883115029"
+  },
+  {
+   "id": "1558550367824908408",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T18:42:44.155000+00:00",
+   "edited": null,
+   "content": "they're not *technically* malls if they don't have a Hot Topic, just sparkling shopping centres",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558550367824908408"
+  },
+  {
+   "id": "1558553877526093874",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T18:56:40.933000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/bring-it-kelly-hu",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Kelly Hu as Lady Deathstrike",
+     "desc": null,
+     "url": "https://klipy.com/gifs/bring-it-kelly-hu"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558553877526093874"
   }
  ]
 }
