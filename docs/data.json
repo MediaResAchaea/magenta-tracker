@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-10T17:00:04.074079+00:00",
+ "generated_at": "2026-10-10T18:00:04.042539+00:00",
  "refresh_hours": 6,
- "since_id": "1558520629697970218",
- "count": 319,
+ "since_id": "1558524397969735940",
+ "count": 321,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4866,6 +4866,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558520629697970218"
+  },
+  {
+   "id": "1558524368957603965",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:59:25.542000+00:00",
+   "edited": null,
+   "content": "nah 20 pulls in only",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558524368957603965"
+  },
+  {
+   "id": "1558524397969735940",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:59:32.459000+00:00",
+   "edited": null,
+   "content": "i have done some world first keys this last 2 weeks tho",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558524397969735940"
   }
  ]
 }
