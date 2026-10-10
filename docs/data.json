@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-10T16:00:04.051244+00:00",
+ "generated_at": "2026-10-10T17:00:04.074079+00:00",
  "refresh_hours": 6,
- "since_id": "1558507119832207371",
- "count": 315,
+ "since_id": "1558520629697970218",
+ "count": 319,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -4806,6 +4806,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558507119832207371"
+  },
+  {
+   "id": "1558520154495778897",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:42:40.736000+00:00",
+   "edited": null,
+   "content": "hmmmmmmmmmmmmmm",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558520154495778897"
+  },
+  {
+   "id": "1558520228931965012",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:42:58.483000+00:00",
+   "edited": null,
+   "content": "you can stay",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558520228931965012"
+  },
+  {
+   "id": "1558520239807791137",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:43:01.076000+00:00",
+   "edited": null,
+   "content": "i am just thinking",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558520239807791137"
+  },
+  {
+   "id": "1558520629697970218",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-10T16:44:34.033000+00:00",
+   "edited": null,
+   "content": "it's about that time where we have to start thinking about the coming year plan is all",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1558520629697970218"
   }
  ]
 }
