@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-11T21:00:04.757898+00:00",
+ "generated_at": "2026-10-11T22:00:04.254402+00:00",
  "refresh_hours": 6,
- "since_id": "1558944566034440324",
- "count": 337,
+ "since_id": "1558962152893710447",
+ "count": 340,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5160,6 +5160,57 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874137236097077298/1558944566034440324"
+  },
+  {
+   "id": "1558961758201319479",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-11T21:57:27.264000+00:00",
+   "edited": null,
+   "content": "you cannot 😔 it changes descriptions based on the formulation in it and that does not play nicely with customs",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1558961758201319479"
+  },
+  {
+   "id": "1558962104009101414",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-11T21:58:49.711000+00:00",
+   "edited": null,
+   "content": "this would be even worse",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1558962104009101414"
+  },
+  {
+   "id": "1558962152893710447",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-11T21:59:01.366000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/get-out-of-my-head-meme",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Kitten Yawning 'Get Out Of My Head' Meme",
+     "desc": null,
+     "url": "https://klipy.com/gifs/get-out-of-my-head-meme"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1558962152893710447"
   }
  ]
 }
