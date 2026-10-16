@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-16T19:00:07.538514+00:00",
+ "generated_at": "2026-10-16T20:00:12.098252+00:00",
  "refresh_hours": 6,
- "since_id": "1560551447337246835",
- "count": 356,
+ "since_id": "1560737985107071187",
+ "count": 357,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5451,6 +5451,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1560551447337246835"
+  },
+  {
+   "id": "1560737985107071187",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-10-16T19:35:32.759000+00:00",
+   "edited": "2026-10-16T19:35:48.922000+00:00",
+   "content": "I was going to gaslight Tabethys but you were all too quick to reaffirm the truth 😔",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1560737985107071187"
   }
  ]
 }
