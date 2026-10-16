@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-16T07:00:04.291531+00:00",
+ "generated_at": "2026-10-16T08:00:05.312702+00:00",
  "refresh_hours": 6,
- "since_id": "1560400632106459187",
- "count": 354,
+ "since_id": "1560551447337246835",
+ "count": 356,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5421,6 +5421,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1560400632106459187"
+  },
+  {
+   "id": "1560551314063368207",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1397231331565633659",
+   "channel": "feedback / Quest Syntax / Hints/ Obscurity",
+   "ts": "2026-10-16T07:13:46.914000+00:00",
+   "edited": null,
+   "content": "tldr yes dragon quest sucks we will be putting a lot of work into it once time permits",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1560551314063368207"
+  },
+  {
+   "id": "1560551447337246835",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1397231331565633659",
+   "channel": "feedback / Quest Syntax / Hints/ Obscurity",
+   "ts": "2026-10-16T07:14:18.689000+00:00",
+   "edited": null,
+   "content": "it's sadly a relic of a time crunch era and i'm finally seeing some light on the horizon where we can remake lots of it",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1560551447337246835"
   }
  ]
 }
