@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-16T21:00:04.593367+00:00",
+ "generated_at": "2026-10-16T22:00:05.178070+00:00",
  "refresh_hours": 6,
- "since_id": "1560737985107071187",
- "count": 357,
+ "since_id": "1560771766681473146",
+ "count": 358,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5466,6 +5466,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1560737985107071187"
+  },
+  {
+   "id": "1560771766681473146",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1397231331565633659",
+   "channel": "feedback / Quest Syntax / Hints/ Obscurity",
+   "ts": "2026-10-16T21:49:46.914000+00:00",
+   "edited": null,
+   "content": "yeah i do plan to wipe all history on it so everyone can redo",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1560771766681473146"
   }
  ]
 }
