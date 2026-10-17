@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-17T22:00:05.079763+00:00",
+ "generated_at": "2026-10-17T23:00:04.928639+00:00",
  "refresh_hours": 6,
- "since_id": "1561132165545332827",
- "count": 380,
+ "since_id": "1561150906660036649",
+ "count": 384,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5823,6 +5823,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561132165545332827"
+  },
+  {
+   "id": "1561145800786976932",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T22:36:03.594000+00:00",
+   "edited": null,
+   "content": "Okay so I finally figured out why this is causing much confusion for me. The Promo Double XP *is* the bonus from the renown shop but it was toggled on for all players after the rollback yesterday",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561145800786976932"
+  },
+  {
+   "id": "1561146055913902141",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T22:37:04.421000+00:00",
+   "edited": null,
+   "content": "So the renown shop bonus IS working, but they're not stacking because its a shared buff. Yes, this is confusing and not intuitive.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561146055913902141"
+  },
+  {
+   "id": "1561146222104805480",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T22:37:44.044000+00:00",
+   "edited": null,
+   "content": "mhm",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561146222104805480"
+  },
+  {
+   "id": "1561150906660036649",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T22:56:20.929000+00:00",
+   "edited": null,
+   "content": "Some of my favourite comments in the codebase:\n\n```\n(* pass in the replica and room (I don't know why the fuck we pass in the room) *)\n\n(* Hmm. Movement is quite a mess really. I suggest that the best way to learn it is to walk yourself through it. *)\n\n(* Erm, I've never even used these, so I guess <old coder> wrote them for something. Check them out I guess. *)\n\n(* This is such an awful global it just has to be done manually. It has to be set at key parts of certain ancient routines and if its not then everything just dies. Alas. *)\n\n(* God this is ugly but going to have to live with it because of how voice bal is handled. *) - this one appears A LOT in old bard code.\n\n(* awful old message global uses this for caster name... *) - for reference this function uses a global city$ to hold the name of the player.\n\n(* I've decided not to fully code this as it may allow people to really mess things up. But if I WERE going to code it... *) - followed by the full implementation commented out.\n\n(* Due to a crappily designed telnet risk test we have to automatically reject certain player names like syslib, operator, and manager *)\n```",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561150906660036649"
   }
  ]
 }
