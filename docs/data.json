@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-17T20:00:05.039548+00:00",
+ "generated_at": "2026-10-17T21:00:04.709034+00:00",
  "refresh_hours": 6,
- "since_id": "1561098548752285847",
- "count": 369,
+ "since_id": "1561120711852953610",
+ "count": 376,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5652,6 +5652,117 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561098548752285847"
+  },
+  {
+   "id": "1561108146204835851",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T20:06:26.042000+00:00",
+   "edited": null,
+   "content": "This is the case and its intentional, yes.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561108146204835851"
+  },
+  {
+   "id": "1561109249545998498",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T20:10:49.099000+00:00",
+   "edited": null,
+   "content": "Nothing has changed with normal gear drops, but most special sets are tied to an area and the Mnemosyne doesn't count as Moghedu, for example.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561109249545998498"
+  },
+  {
+   "id": "1561109479431479307",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T20:11:43.908000+00:00",
+   "edited": null,
+   "content": "We might add dungeoneer drops in some other fashion outside the MEMORYSHOP but the intent was to stop the Mnemosyne from passively equipping you with the best gear for wading",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561109479431479307"
+  },
+  {
+   "id": "1561110337510445208",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-10-17T20:15:08.490000+00:00",
+   "edited": null,
+   "content": "Previously, dungeoneer gear (and only dungeoneer gear) had a chance to be awarded whenever you completed a ripple. That's no longer the case.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561110337510445208"
+  },
+  {
+   "id": "1561120507775029309",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-17T20:55:33.270000+00:00",
+   "edited": null,
+   "content": "These accusations are heinous and unfounded. Don't make me call the mounties after getting some timmies in my hoodie.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561120507775029309"
+  },
+  {
+   "id": "1561120692865343559",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-17T20:56:17.399000+00:00",
+   "edited": null,
+   "content": "toque*",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561120692865343559"
+  },
+  {
+   "id": "1561120711852953610",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-17T20:56:21.926000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/fool-took",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Gandalf: Fool of a Took!",
+     "desc": null,
+     "url": "https://klipy.com/gifs/fool-took"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561120711852953610"
   }
  ]
 }
