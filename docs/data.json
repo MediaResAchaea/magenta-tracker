@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-19T00:00:05.951582+00:00",
+ "generated_at": "2026-10-19T01:00:06.244632+00:00",
  "refresh_hours": 6,
- "since_id": "1561152631496384563",
- "count": 385,
+ "since_id": "1561532317061619816",
+ "count": 387,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5898,6 +5898,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1561152631496384563"
+  },
+  {
+   "id": "1561531718341496974",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-10-19T00:09:33.509000+00:00",
+   "edited": null,
+   "content": "I'll talk to Edra and see what he thinks but I am reading this thread (as always) and open to reconsidering things always",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1561531718341496974"
+  },
+  {
+   "id": "1561532317061619816",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-10-19T00:11:56.255000+00:00",
+   "edited": null,
+   "content": "hmmm",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561532317061619816"
   }
  ]
 }
