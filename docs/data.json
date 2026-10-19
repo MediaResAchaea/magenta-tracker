@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-19T19:00:05.285201+00:00",
+ "generated_at": "2026-10-19T20:00:05.078478+00:00",
  "refresh_hours": 6,
- "since_id": "1561532317061619816",
- "count": 387,
+ "since_id": "1561822606993260637",
+ "count": 388,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5928,6 +5928,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1561532317061619816"
+  },
+  {
+   "id": "1561822606993260637",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-10-19T19:25:26.768000+00:00",
+   "edited": null,
+   "content": "Personally I am against updating titles on old texts just like news posts retain the title you had when you posted it. I appreciate there are painful memories attached to those title(s) and so on but I agree with Tlalaiad on this one I'm afraid insofar as written text should reflect the state of when it was written and adjusting would set a bad precedent.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1561822606993260637"
   }
  ]
 }
