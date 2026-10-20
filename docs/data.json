@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-20T18:00:04.073564+00:00",
+ "generated_at": "2026-10-20T19:00:04.652209+00:00",
  "refresh_hours": 6,
- "since_id": "1561822606993260637",
- "count": 388,
+ "since_id": "1562175663513800707",
+ "count": 389,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5943,6 +5943,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1561822606993260637"
+  },
+  {
+   "id": "1562175663513800707",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-10-20T18:48:22.002000+00:00",
+   "edited": null,
+   "content": "Rapture has a proprietary db system that is more like allocating memory than it is a traditional database. The vast majority of game mechanics use these databases. While they are fast they are not good at storing large amounts of data in easily fetchable blocks, so books, logs, news posts and probably other things I'm forgetting need to use external databases and Rapture does not always play nicely when interfacing with non-Rapture things.\n\nThe other problem that Caesan eluded too is that the code for the Rapture to non-Rapture interfacing is shared across the games which makes it very load bearing and difficult to touch.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1562175663513800707"
   }
  ]
 }
