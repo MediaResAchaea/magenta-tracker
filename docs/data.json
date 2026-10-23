@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-10-23T09:00:05.013343+00:00",
+ "generated_at": "2026-10-23T10:00:05.162193+00:00",
  "refresh_hours": 6,
- "since_id": "1562181928751202344",
- "count": 390,
+ "since_id": "1563123089330405487",
+ "count": 391,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -5979,6 +5979,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1562181928751202344"
+  },
+  {
+   "id": "1563123089330405487",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1397231331565633659",
+   "channel": "feedback / Quest Syntax / Hints/ Obscurity",
+   "ts": "2026-10-23T09:33:05.919000+00:00",
+   "edited": null,
+   "content": "not this stupid quest again",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1563123089330405487"
   }
  ]
 }
