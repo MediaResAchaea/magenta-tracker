@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-07T21:00:05.273142+00:00",
+ "generated_at": "2026-11-07T22:00:05.088256+00:00",
  "refresh_hours": 6,
- "since_id": "1568731258547085373",
- "count": 589,
+ "since_id": "1568733831144677446",
+ "count": 591,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -9012,6 +9012,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1568731258547085373"
+  },
+  {
+   "id": "1568733791491465257",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-07T21:08:01.556000+00:00",
+   "edited": null,
+   "content": "Sites should be fixed for now yeah",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1568733791491465257"
+  },
+  {
+   "id": "1568733831144677446",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-07T21:08:11.010000+00:00",
+   "edited": null,
+   "content": "Looks like some spam crawler or bot or something",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1568733831144677446"
   }
  ]
 }
