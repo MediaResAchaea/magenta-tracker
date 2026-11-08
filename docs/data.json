@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-08T22:00:04.798539+00:00",
+ "generated_at": "2026-11-08T23:00:04.522323+00:00",
  "refresh_hours": 6,
- "since_id": "1569092020021239879",
- "count": 610,
+ "since_id": "1569111278151147630",
+ "count": 614,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -9327,6 +9327,72 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1569092020021239879"
+  },
+  {
+   "id": "1569109104675258390",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-08T21:59:23.192000+00:00",
+   "edited": null,
+   "content": "are we talking windows 11 notepad or mudlet notepad? because I use both",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1569109104675258390"
+  },
+  {
+   "id": "1569109766293164153",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-08T22:02:00.934000+00:00",
+   "edited": null,
+   "content": "you can disable autocorrect and spell check in notepad",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1569109766293164153"
+  },
+  {
+   "id": "1569111193941966943",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-08T22:07:41.312000+00:00",
+   "edited": null,
+   "content": "you shouldn't even need to edit the registry to disable some of the new notepad features",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1569111193941966943"
+  },
+  {
+   "id": "1569111278151147630",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-08T22:08:01.389000+00:00",
+   "edited": null,
+   "content": "click the settings wheel and then just toggle off all the fancy word processing and its much more like old notepad",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/872606826657624116/1569111277765140501/image.png?ex=6af24441&is=6af0f2c1&hm=af8c5f8955f9057debb4282930a69d184c2002552b065df6dabe517224b35926&",
+     "name": "image.png",
+     "ct": "image/webp"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1569111278151147630"
   }
  ]
 }
