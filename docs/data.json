@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-09T06:00:04.225075+00:00",
+ "generated_at": "2026-11-09T07:00:04.411236+00:00",
  "refresh_hours": 6,
- "since_id": "1569111278151147630",
- "count": 614,
+ "since_id": "1569239503233617981",
+ "count": 618,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -9393,6 +9393,72 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872606826657624116/1569111278151147630"
+  },
+  {
+   "id": "1569239071610372227",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-09T06:35:49.724000+00:00",
+   "edited": null,
+   "content": "wtf you freaks",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1569239071610372227"
+  },
+  {
+   "id": "1569239086936494214",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-09T06:35:53.378000+00:00",
+   "edited": null,
+   "content": "why do i have 5000 esteems",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1569239086936494214"
+  },
+  {
+   "id": "1569239370551136288",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-09T06:37:00.997000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/higuruma-hiromi-higaruma",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Higuruma Hiromi Higaruma",
+     "desc": null,
+     "url": "https://klipy.com/gifs/higuruma-hiromi-higaruma"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1569239370551136288"
+  },
+  {
+   "id": "1569239503233617981",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-09T06:37:32.631000+00:00",
+   "edited": null,
+   "content": "thanks nerds ❤️",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1569239503233617981"
   }
  ]
 }
