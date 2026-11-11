@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-11T19:00:04.928362+00:00",
+ "generated_at": "2026-11-11T20:00:08.256379+00:00",
  "refresh_hours": 6,
- "since_id": "1570145932975276155",
- "count": 693,
+ "since_id": "1570160983563833345",
+ "count": 695,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -10590,6 +10590,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1570145932975276155"
+  },
+  {
+   "id": "1570158418822438953",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-11T19:28:59.180000+00:00",
+   "edited": null,
+   "content": "I thought kai cripple/trample into vivisect would hit the lockout and fail, but apparently the vivisect lockout does not apply to Gods! <:gaiacorn:975061175253471332> \n```\nYou raise your arms above your head, allowing Kai energy to congregate between your outstretched palms.\nYou thrust your palms forward and a stream of blue light crackles forth to strike out at Gaia. Snapping sounds echo through the air as your crippled victim sinks to the floor.\n\nDrawing on the power of undeath, you wreathe your hand in black, crackling energy. With a diabolical laugh, you stiffen your hand and slowly run it down Gaia's chest, splitting it open as you do so. With an expert touch, you rip apart Her innards, causing a maximum of horrifying pain, and, enjoying the spectacle of Gaia writhing and screaming in agony, you rip out Her sternum and drive it through Her splayed body, pinning Her to the ground to die.```",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1570158418822438953"
+  },
+  {
+   "id": "1570160983563833345",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-11T19:39:10.662000+00:00",
+   "edited": null,
+   "content": "no I just edited out this part...\n```\nkai cripple gaia|vivisect gaia\nYou must be in a trance to manipulate your Kai energy.\nYou reach out for Gaia's chest but are unable to penetrate it.\n\nkai trance\nYou begin to chant an ancient mantra, preparing your body to become a channel for Kai energy.\n\nYour mantra is complete - the Kai Trance is upon you.\n\nkai cripple gaia|vivisect gaia\nYou do not have enough Kai energy stored to do that.\nYou reach out for Gaia's chest but are unable to penetrate it.\n\nab kaido\n\nab kaido burst\n\nkai boost\nYou do not have enough Kai energy stored to do that.\n\nkai burst\nYou let loose an uncontrolled burst of kai energy, flushing it through your system and bolstering your reserves.\n```",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1570160983563833345"
   }
  ]
 }
