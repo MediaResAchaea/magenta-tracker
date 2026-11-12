@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-12T21:00:05.016659+00:00",
+ "generated_at": "2026-11-12T22:00:05.083286+00:00",
  "refresh_hours": 6,
- "since_id": "1570483209534181519",
- "count": 732,
+ "since_id": "1570554014461067315",
+ "count": 739,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11181,6 +11181,123 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570483209534181519"
+  },
+  {
+   "id": "1570553488654602251",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:38:51.168000+00:00",
+   "edited": null,
+   "content": "SOOOO",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553488654602251"
+  },
+  {
+   "id": "1570553515737092211",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:38:57.625000+00:00",
+   "edited": null,
+   "content": "who wants to see a preview of the dreadpilar sketches from our artist",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553515737092211"
+  },
+  {
+   "id": "1570553703088394353",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:39:42.293000+00:00",
+   "edited": null,
+   "content": "",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/874108288957034556/1570553703000318032/image.png?ex=6af7839e&is=6af6321e&hm=5ede08f63a210d3b44ae0424adf33e85a684ed5bddd72ef270c638b65cfc444c&",
+     "name": "image.png",
+     "ct": "image/webp"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553703088394353"
+  },
+  {
+   "id": "1570553791659380907",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:40:03.410000+00:00",
+   "edited": null,
+   "content": "",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/874108288957034556/1570553790438842599/image.png?ex=6af783b3&is=6af63233&hm=334010e8b0c40587db9134c406469c1556e8660c246800731a95719a3adc8027&",
+     "name": "image.png",
+     "ct": "image/webp"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553791659380907"
+  },
+  {
+   "id": "1570553802178822267",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:40:05.918000+00:00",
+   "edited": null,
+   "content": "concept sketches so far",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553802178822267"
+  },
+  {
+   "id": "1570553958978814056",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:40:43.302000+00:00",
+   "edited": null,
+   "content": "Kinda yeah",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570553958978814056"
+  },
+  {
+   "id": "1570554014461067315",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T21:40:56.530000+00:00",
+   "edited": null,
+   "content": "part website part just having modern image materials to use in various marketing newsletters etc too",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570554014461067315"
   }
  ]
 }
