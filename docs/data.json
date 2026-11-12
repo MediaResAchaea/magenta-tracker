@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-12T05:00:05.716539+00:00",
+ "generated_at": "2026-11-12T06:00:05.799777+00:00",
  "refresh_hours": 6,
- "since_id": "1570301925692285063",
- "count": 724,
+ "since_id": "1570302893293052037",
+ "count": 728,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11055,6 +11055,72 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570301925692285063"
+  },
+  {
+   "id": "1570302195721699462",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T05:00:18.264000+00:00",
+   "edited": null,
+   "content": "and the coloured version of the sporarch",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570302195721699462"
+  },
+  {
+   "id": "1570302296242520097",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T05:00:42.230000+00:00",
+   "edited": null,
+   "content": "This is still WIP but it's so sick",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570302296242520097"
+  },
+  {
+   "id": "1570302324885426276",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T05:00:49.059000+00:00",
+   "edited": null,
+   "content": "",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/874108288957034556/1570302324344225833/image.png?ex=6af69980&is=6af54800&hm=43b4a99316c5838c4205b27a5453546b931c3fda11902d982dd4e15c3da8faf0&",
+     "name": "image.png",
+     "ct": "image/png"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570302324885426276"
+  },
+  {
+   "id": "1570302893293052037",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-12T05:03:04.578000+00:00",
+   "edited": null,
+   "content": "I hate it here goodbye",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570302893293052037"
   }
  ]
 }
