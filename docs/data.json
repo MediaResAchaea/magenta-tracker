@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-13T19:00:05.820761+00:00",
+ "generated_at": "2026-11-13T20:00:05.510830+00:00",
  "refresh_hours": 6,
- "since_id": "1570638853079830560",
- "count": 740,
+ "since_id": "1570882343349125262",
+ "count": 741,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11313,6 +11313,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570638853079830560"
+  },
+  {
+   "id": "1570882343349125262",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1451764307103842385",
+   "channel": "feedback / Help file cleanup",
+   "ts": "2026-11-13T19:25:36.237000+00:00",
+   "edited": null,
+   "content": "the helps are already in btw, in case that wasn't super clear - so lots of that stuff is already in there",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1451764307103842385/1570882343349125262"
   }
  ]
 }
