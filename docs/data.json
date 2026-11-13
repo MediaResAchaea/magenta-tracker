@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-13T03:00:08.224984+00:00",
+ "generated_at": "2026-11-13T04:00:04.715917+00:00",
  "refresh_hours": 6,
- "since_id": "1570554014461067315",
- "count": 739,
+ "since_id": "1570638853079830560",
+ "count": 740,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11298,6 +11298,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570554014461067315"
+  },
+  {
+   "id": "1570638853079830560",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-13T03:18:03.633000+00:00",
+   "edited": null,
+   "content": "I've lifted the slowmode tyranny",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1570638853079830560"
   }
  ]
 }
