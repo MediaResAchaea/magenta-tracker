@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-16T07:00:05.261100+00:00",
+ "generated_at": "2026-11-16T08:00:04.507707+00:00",
  "refresh_hours": 6,
- "since_id": "1571687902025490483",
- "count": 785,
+ "since_id": "1571793096365314059",
+ "count": 789,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11988,6 +11988,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571687902025490483"
+  },
+  {
+   "id": "1571786100362584075",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-16T07:16:48.700000+00:00",
+   "edited": null,
+   "content": "<:ictihmm:1372974273412599929>",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571786100362584075"
+  },
+  {
+   "id": "1571791933075103825",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-16T07:39:59.327000+00:00",
+   "edited": null,
+   "content": "60 responses to the survey so far with a ton of data, thank you team!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571791933075103825"
+  },
+  {
+   "id": "1571793030929711105",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-16T07:44:21.076000+00:00",
+   "edited": null,
+   "content": "Sure I can probably do that",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571793030929711105"
+  },
+  {
+   "id": "1571793096365314059",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-16T07:44:36.677000+00:00",
+   "edited": null,
+   "content": "Only one responses has demanded I get fired so far so that's a W",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571793096365314059"
   }
  ]
 }
