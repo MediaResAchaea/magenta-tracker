@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-15T23:00:05.782479+00:00",
+ "generated_at": "2026-11-16T00:00:05.131055+00:00",
  "refresh_hours": 6,
- "since_id": "1571657025749000334",
- "count": 782,
+ "since_id": "1571662144959807601",
+ "count": 784,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -11943,6 +11943,36 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872606826657624116/1571657025749000334"
+  },
+  {
+   "id": "1571662131156484177",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-15T23:04:12.138000+00:00",
+   "edited": null,
+   "content": "well i've already said i'm down to do the working bar etc",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1571662131156484177"
+  },
+  {
+   "id": "1571662144959807601",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-15T23:04:15.429000+00:00",
+   "edited": null,
+   "content": "but the question is implementation",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1571662144959807601"
   }
  ]
 }
