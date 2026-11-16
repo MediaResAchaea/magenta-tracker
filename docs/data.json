@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-16T19:00:06.395333+00:00",
+ "generated_at": "2026-11-16T20:00:06.798980+00:00",
  "refresh_hours": 6,
- "since_id": "1571962316549783574",
- "count": 856,
+ "since_id": "1571972542888017950",
+ "count": 857,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -13065,6 +13065,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571962316549783574"
+  },
+  {
+   "id": "1571972542888017950",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1397231331565633659",
+   "channel": "feedback / Quest Syntax / Hints/ Obscurity",
+   "ts": "2026-11-16T19:37:40.062000+00:00",
+   "edited": null,
+   "content": "It looks like most of Minos is not properly integrated into the quest system",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1397231331565633659/1571972542888017950"
   }
  ]
 }
