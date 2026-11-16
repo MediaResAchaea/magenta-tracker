@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-16T12:00:04.693882+00:00",
+ "generated_at": "2026-11-16T13:00:04.884135+00:00",
  "refresh_hours": 6,
- "since_id": "1571793096365314059",
- "count": 789,
+ "since_id": "1571859212445818911",
+ "count": 792,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -12048,6 +12048,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571793096365314059"
+  },
+  {
+   "id": "1571859040806502412",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-16T12:06:39.057000+00:00",
+   "edited": null,
+   "content": "Ye but I of course won't share that. It's fine! Just one person's strong opinion.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1571859040806502412"
+  },
+  {
+   "id": "1571859138521071727",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-11-16T12:07:02.354000+00:00",
+   "edited": null,
+   "content": "The new boon archetypes for the next big Mnemo update are going to be very cool!!!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1571859138521071727"
+  },
+  {
+   "id": "1571859212445818911",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518055855730327692",
+   "channel": "lupine-hunting-grounds",
+   "ts": "2026-11-16T12:07:19.979000+00:00",
+   "edited": null,
+   "content": "I will consult with Mak about whether we want to do a preview",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1571859212445818911"
   }
  ]
 }
