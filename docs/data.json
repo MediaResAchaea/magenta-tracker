@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-22T15:00:06.325472+00:00",
+ "generated_at": "2026-11-22T16:00:06.751323+00:00",
  "refresh_hours": 6,
- "since_id": "1574075735197483170",
- "count": 881,
+ "since_id": "1574089844123107420",
+ "count": 886,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -13440,6 +13440,87 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574075735197483170"
+  },
+  {
+   "id": "1574082964856508528",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-22T15:23:43.869000+00:00",
+   "edited": null,
+   "content": "PREVIEW!!!",
+   "attachments": [
+    {
+     "url": "https://cdn.discordapp.com/attachments/874108288957034556/1574082964529221672/image.png?ex=6b045a7f&is=6b0308ff&hm=8b151bdd35e867c57e21ffca94322f088d95300bda8896c9ee4c1fdbdc47ffdf&",
+     "name": "image.png",
+     "ct": "image/png"
+    }
+   ],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574082964856508528"
+  },
+  {
+   "id": "1574089221269102714",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T15:48:35.514000+00:00",
+   "edited": null,
+   "content": "We will probably be making some more adjustments to the XP gain with the next major update, but overall we don't view it as super problematic. I appreciate there's a bad feels element to having put in so much time but that's just a leapfrog effect of developing the game over 30 years like we do. Things become easier. Power creep occurs.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574089221269102714"
+  },
+  {
+   "id": "1574089426093744201",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T15:49:24.348000+00:00",
+   "edited": null,
+   "content": "It has been adjusted down severely since then IIRC.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574089426093744201"
+  },
+  {
+   "id": "1574089567504564387",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T15:49:58.063000+00:00",
+   "edited": null,
+   "content": "But we will be making another adjustment to it in any case.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574089567504564387"
+  },
+  {
+   "id": "1574089844123107420",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T15:51:04.014000+00:00",
+   "edited": null,
+   "content": "And again I appreciate the scale is probably the bigger concern here but over years we've dramatically buffed so many sources of exp, so many sources of damage, crits, gear, talismans, etc.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574089844123107420"
   }
  ]
 }
