@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-22T23:00:06.706337+00:00",
+ "generated_at": "2026-11-23T00:00:09.059813+00:00",
  "refresh_hours": 6,
- "since_id": "1574174375882653758",
- "count": 903,
+ "since_id": "1574202633370206259",
+ "count": 907,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -13782,6 +13782,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1451764307103842385/1574174375882653758"
+  },
+  {
+   "id": "1574201677106512066",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T23:15:27.075000+00:00",
+   "edited": null,
+   "content": "I'm potentially open to suggestions on how to alleviate the rankings \"feels\" or perception but overall I think Aroan kinda summarised my feelings across a couple of different posts. \n\nI *have* been also thinking on some incentives/reasons to actually bash ultra high and get xp at those levels but I don't have anything to share there yet.\n\nAs for next season / the big update coming, I don't want to share too much but adding different modes is one of the major back-end upgrades Mak has done, which will mean we are able to continue doing infinite modes, alongside some of the new stuff which will probably be their own mode, which I don't want to spoil yet, as well as, for example, beginner mode, challenge modes, curated themed modes, etc.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574201677106512066"
+  },
+  {
+   "id": "1574202339693301832",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T23:18:05.048000+00:00",
+   "edited": null,
+   "content": "Well that's definitely an option yeah",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574202339693301832"
+  },
+  {
+   "id": "1574202498992967783",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T23:18:43.028000+00:00",
+   "edited": null,
+   "content": "While there is a substantial amount of new content + boons + a big archetype shakeup, a lot of this is setting us up for future success as well.",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574202498992967783"
+  },
+  {
+   "id": "1574202633370206259",
+   "author_id": "1233523505006383184",
+   "author": "Edra",
+   "channel_id": "1518031317315489855",
+   "channel": "feedback / Mnemosyne Dungeon Feedback",
+   "ts": "2026-11-22T23:19:15.066000+00:00",
+   "edited": null,
+   "content": "It's all werewolves ... INCLUDING YOU",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1518031317315489855/1574202633370206259"
   }
  ]
 }
