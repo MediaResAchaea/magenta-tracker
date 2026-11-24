@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-24T03:00:08.455392+00:00",
+ "generated_at": "2026-11-24T04:00:08.871636+00:00",
  "refresh_hours": 6,
- "since_id": "1574618962522669137",
- "count": 1042,
+ "since_id": "1574620674343833621",
+ "count": 1043,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -15873,6 +15873,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574618962522669137"
+  },
+  {
+   "id": "1574620674343833621",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T03:00:23.801000+00:00",
+   "edited": null,
+   "content": "There is actually something for heraldry in the works but it's not a headliner like other stuff",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574620674343833621"
   }
  ]
 }
