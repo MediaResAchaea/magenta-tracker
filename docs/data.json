@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-24T19:00:06.728906+00:00",
+ "generated_at": "2026-11-24T20:00:07.711550+00:00",
  "refresh_hours": 6,
- "since_id": "1574844269607522377",
- "count": 1052,
+ "since_id": "1574869878626586765",
+ "count": 1056,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -16023,6 +16023,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574844269607522377"
+  },
+  {
+   "id": "1574862034246439075",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-24T18:59:28.486000+00:00",
+   "edited": null,
+   "content": "low key kinda love the idea of ToNiar",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574862034246439075"
+  },
+  {
+   "id": "1574869108581732354",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T19:27:35.139000+00:00",
+   "edited": null,
+   "content": "Yeah the aim is to give people a bit more guidance and ability to funnel them towards things they may be interested in",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574869108581732354"
+  },
+  {
+   "id": "1574869871869821059",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T19:30:37.121000+00:00",
+   "edited": null,
+   "content": "You can use it as an older player too",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574869871869821059"
+  },
+  {
+   "id": "1574869878626586765",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T19:30:38.732000+00:00",
+   "edited": null,
+   "content": "just type whatnow",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574869878626586765"
   }
  ]
 }
