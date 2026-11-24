@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-24T08:00:07.786577+00:00",
+ "generated_at": "2026-11-24T09:00:05.405144+00:00",
  "refresh_hours": 6,
- "since_id": "1574620674343833621",
- "count": 1043,
+ "since_id": "1574700337347166282",
+ "count": 1047,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -15888,6 +15888,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574620674343833621"
+  },
+  {
+   "id": "1574698127888359516",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T08:08:10.165000+00:00",
+   "edited": null,
+   "content": "I actually just woke up after like",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574698127888359516"
+  },
+  {
+   "id": "1574698147744063499",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T08:08:14.899000+00:00",
+   "edited": null,
+   "content": "3 hours",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574698147744063499"
+  },
+  {
+   "id": "1574700257441480709",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T08:16:37.890000+00:00",
+   "edited": null,
+   "content": "There is no wow time at the moment, Forever killed the main game!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574700257441480709"
+  },
+  {
+   "id": "1574700337347166282",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T08:16:56.941000+00:00",
+   "edited": null,
+   "content": "And yeah the apnea test is a long waiting list",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574700337347166282"
   }
  ]
 }
