@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-24T23:00:05.840810+00:00",
+ "generated_at": "2026-11-25T00:00:05.436793+00:00",
  "refresh_hours": 6,
- "since_id": "1574882257666052218",
- "count": 1067,
+ "since_id": "1574924522975404123",
+ "count": 1070,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -16248,6 +16248,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574882257666052218"
+  },
+  {
+   "id": "1574924151519445063",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T23:06:18.398000+00:00",
+   "edited": null,
+   "content": "Yeah not retroactive unfortunately",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574924151519445063"
+  },
+  {
+   "id": "1574924494714437682",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T23:07:40.222000+00:00",
+   "edited": null,
+   "content": "No!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574924494714437682"
+  },
+  {
+   "id": "1574924522975404123",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-24T23:07:46.960000+00:00",
+   "edited": null,
+   "content": "Ask a newbie to go and get one for you",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1574924522975404123"
   }
  ]
 }
