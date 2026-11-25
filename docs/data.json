@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-25T02:00:07.825564+00:00",
+ "generated_at": "2026-11-25T03:00:11.681015+00:00",
  "refresh_hours": 6,
- "since_id": "1574967571105714389",
- "count": 1143,
+ "since_id": "1574968083557257357",
+ "count": 1147,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -17388,6 +17388,66 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574967571105714389"
+  },
+  {
+   "id": "1574967662801584192",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-25T01:59:12.296000+00:00",
+   "edited": null,
+   "content": "wdym",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574967662801584192"
+  },
+  {
+   "id": "1574967859958907113",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-25T01:59:59.302000+00:00",
+   "edited": null,
+   "content": "lmao this is at least partially true",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574967859958907113"
+  },
+  {
+   "id": "1574967921229430936",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-25T02:00:13.910000+00:00",
+   "edited": null,
+   "content": "i have been hard stuck at 4316 rio for 3 weeks",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574967921229430936"
+  },
+  {
+   "id": "1574968083557257357",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872602471690797076",
+   "channel": "matsuhama-arena",
+   "ts": "2026-11-25T02:00:52.612000+00:00",
+   "edited": null,
+   "content": "Yeah I was feeling a bit burned out late summer into autumn, week off was very energising",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872602471690797076/1574968083557257357"
   }
  ]
 }
