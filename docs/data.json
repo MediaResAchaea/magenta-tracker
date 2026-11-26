@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-26T22:00:06.556911+00:00",
+ "generated_at": "2026-11-26T23:00:05.870455+00:00",
  "refresh_hours": 6,
- "since_id": "1575629966320603197",
- "count": 1208,
+ "since_id": "1575644464360202442",
+ "count": 1209,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -18375,6 +18375,21 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/872606826657624116/1575629966320603197"
+  },
+  {
+   "id": "1575644464360202442",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "872606826657624116",
+   "channel": "scarlattan-theatre",
+   "ts": "2026-11-26T22:48:34.362000+00:00",
+   "edited": null,
+   "content": "Realistically the themed priests thing will probably never happen because priest is kind of ingrained as a factional now",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/872606826657624116/1575644464360202442"
   }
  ]
 }
