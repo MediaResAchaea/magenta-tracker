@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-26T10:00:04.842262+00:00",
+ "generated_at": "2026-11-26T11:00:05.501033+00:00",
  "refresh_hours": 6,
- "since_id": "1575450523564384337",
- "count": 1150,
+ "since_id": "1575462894919880775",
+ "count": 1153,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -17493,6 +17493,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575450523564384337"
+  },
+  {
+   "id": "1575462806440906874",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T10:46:43.739000+00:00",
+   "edited": null,
+   "content": "Happy Turkey Day to those of the former IMPERIAL colonies!",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575462806440906874"
+  },
+  {
+   "id": "1575462883217899541",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T10:47:02.044000+00:00",
+   "edited": null,
+   "content": "May you all speak good English",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575462883217899541"
+  },
+  {
+   "id": "1575462894919880775",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T10:47:04.834000+00:00",
+   "edited": null,
+   "content": "❤️",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575462894919880775"
   }
  ]
 }
