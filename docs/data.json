@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-26T12:00:05.003178+00:00",
+ "generated_at": "2026-11-26T13:00:05.231795+00:00",
  "refresh_hours": 6,
- "since_id": "1575474930244395009",
- "count": 1164,
+ "since_id": "1575487574972170281",
+ "count": 1167,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -17709,6 +17709,57 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575474930244395009"
+  },
+  {
+   "id": "1575487362778136712",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T12:24:18.426000+00:00",
+   "edited": null,
+   "content": "Mock this woman",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575487362778136712"
+  },
+  {
+   "id": "1575487427282468894",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T12:24:33.805000+00:00",
+   "edited": null,
+   "content": "https://klipy.com/gifs/homer-lol",
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Homer Simpson Laughing",
+     "desc": null,
+     "url": "https://klipy.com/gifs/homer-lol"
+    }
+   ],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575487427282468894"
+  },
+  {
+   "id": "1575487574972170281",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "874108288957034556",
+   "channel": "north-of-new-thera",
+   "ts": "2026-11-26T12:25:09.017000+00:00",
+   "edited": null,
+   "content": "Nobody is ready for Tlalinus",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/874108288957034556/1575487574972170281"
   }
  ]
 }
