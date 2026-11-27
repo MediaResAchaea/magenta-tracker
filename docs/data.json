@@ -17,10 +17,10 @@
   }
  ],
  "guild": "872599744793419776",
- "generated_at": "2026-11-27T22:00:06.882232+00:00",
+ "generated_at": "2026-11-27T23:00:07.596910+00:00",
  "refresh_hours": 6,
- "since_id": "1575982466840273029",
- "count": 1276,
+ "since_id": "1575995940693737594",
+ "count": 1279,
  "channels": {
   "north-of-new-thera": "874108288957034556",
   "scarlattan-theatre": "872606826657624116",
@@ -19401,6 +19401,51 @@
    "reply_to": null,
    "reply_excerpt": "",
    "url": "https://discord.com/channels/872599744793419776/1518055855730327692/1575982466840273029"
+  },
+  {
+   "id": "1575995553098244237",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-11-27T22:03:40.440000+00:00",
+   "edited": null,
+   "content": "All good, I think it's reasonable to expect to learn how your auction artefact works in very short order honestly",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1575995553098244237"
+  },
+  {
+   "id": "1575995912940036340",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-11-27T22:05:06.233000+00:00",
+   "edited": null,
+   "content": "Seia is working on a help now 😄",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1575995912940036340"
+  },
+  {
+   "id": "1575995940693737594",
+   "author_id": "196754806868541440",
+   "author": "Ictinus",
+   "channel_id": "1340099617722994729",
+   "channel": "feedback / QoL suggestions",
+   "ts": "2026-11-27T22:05:12.850000+00:00",
+   "edited": null,
+   "content": "But I also did not know the command myself",
+   "attachments": [],
+   "embeds": [],
+   "reply_to": null,
+   "reply_excerpt": "",
+   "url": "https://discord.com/channels/872599744793419776/1340099617722994729/1575995940693737594"
   }
  ]
 }
